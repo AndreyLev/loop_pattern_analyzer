@@ -1,4 +1,4 @@
-void pattern4_upper_triangle(int n) {
+void pattern2_upper_triangle(int n) {
     int count = 0;
 
     for (int i = 0; i < n; i++) {

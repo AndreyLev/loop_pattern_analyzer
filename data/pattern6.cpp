@@ -1,4 +1,4 @@
-void pattern9_band_matrix(int n, int bandwidth) {
+void pattern6_band_matrix(int n, int bandwidth) {
     int count = 0;
 
     for (int i = 0; i < n; i++) {

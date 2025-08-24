@@ -1,4 +1,4 @@
-void pattern7_diagonal_iteration(int n, int m) {
+void pattern4_diagonal_iteration(int n, int m) {
     int count = 0;
 
     // Обход по диагоналям (сумма координат постоянна)

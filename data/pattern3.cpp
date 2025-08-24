@@ -1,4 +1,4 @@
-void pattern6_trapezoid(int T, int n, int k) {
+void pattern3_trapezoid(int T, int n, int k) {
     int count = 0;
 
     for (int t = 0; t < T; t++) {

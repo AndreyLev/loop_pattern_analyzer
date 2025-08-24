@@ -1,4 +1,4 @@
-void pattern3_lower_triangle(int n) {
+void pattern1_lower_triangle(int n) {
     int count = 0;
 
     for (int i = 0; i < n; i++) {
